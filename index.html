@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		  
+		  
+		  <link href='css.css' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<style type="text/css">
+			.m-map {
+				position: relative;
+				width: 200px;
+				height: 200px;
+			}
+			.station {
+				width: 10px;
+				height: 10px;
+				border-radius: 5px;
+				background: black;
+				position: absolute;
+				cursor: pointer;
+			}
+			.station.active {
+				background: blue;
+			}
+		</style>
+		
+		<div class="m-map">
+			<div class="line">
+			
+				<div class="station" index="0"></div>
+				<div class="station" index="1"></div>
+				<div class="station" index="2"></div>
+				<div class="station" index="3"></div>
+				<div class="station" index="4"></div>
+			
+			</div>
+		</div>
+		<p>От: <span id="from"></span></p>
+		<p>До: <span id="to"></span></p>
+		<p>Время в пути: <span id="result"></span></p>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="scripts.js"></script>
+	</body>
+</html>
