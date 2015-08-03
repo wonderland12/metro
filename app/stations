@@ -1,0 +1,980 @@
+{
+	lineId: 0,
+	name: 'Сокольническая',
+	stationDistance: 1.48,
+
+	stations: [
+
+			{
+				name: 'Бульвар Рокоссовского',
+				stationId: 0_0,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Черкизовская',
+				stationId: 0_1,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Преображенская площадь',
+				stationId: 0_2,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Сокольники',
+				stationId: 0_3,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Красносельская',
+				stationId: 0_4,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Комсомольская',
+				stationId: 0_5,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Красные ворота',
+				stationId: 0_6,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Чистые пруды',
+				stationId: 0_7,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Лубянка',
+				stationId: 0_8,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Охотный ряд',
+				stationId: 0_9,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Библиотека имени Ленина',
+				stationId: 0_10,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Кропоткинская',
+				stationId: 0_11,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Парк культуры',
+				stationId: 0_12,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Фрунзенская',
+				stationId: 0_13,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Спортивная',
+				stationId: 0_14,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Воробьёвы горы',
+				stationId: 0_15,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Университет',
+				stationId: 0_16,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Проспект Вернадского',
+				stationId: 0_17,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Юго-Западная',
+				stationId: 0_18,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Тропарёво',
+				stationId: 0_19,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			}
+
+	]
+},
+
+{
+	lineId: 1,
+	name: 'Замоскворецкая',
+	stationDistance: 2.00,
+
+	stations: [
+
+			{
+				name: 'Речной вокзал',
+				stationId: 1_0,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Водный стадион',
+				stationId: 1_1,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Войковская',
+				stationId: 1_2,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Сокол',
+				stationId: 1_2,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Водный стадион',
+				stationId: 1_3,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Водный стадион',
+				stationId: 1_4,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Белорусская',
+				stationId: 1_5,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Маяковская',
+				stationId: 1_6,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Тверская',
+				stationId: 1_7,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Театральная',
+				stationId: 1_8,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Новокузнецкая',
+				stationId: 1_9,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Павелецкая',
+				stationId: 1_10,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Автозаводская',
+				stationId: 1_11,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Коломенская',
+				stationId: 1_12,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Каширская',
+				stationId: 1_13,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Кантемировская',
+				stationId: 1_14,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Орехово',
+				stationId: 1_15,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Домодедовская',
+				stationId: 1_16,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Красногвардейская',
+				stationId: 1_17,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Алма-Атинская',
+				stationId: 1_18,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			}
+	]
+},
+
+{
+	lineId: 2,
+	name: 'Арбатско-Покровская',
+	stationDistance: 2.14,
+
+	stations: [
+
+			{
+				name: 'Пятницкое шоссе',
+				stationId: 2_0,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Митино',
+				stationId: 2_1,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Волоколамская',
+				stationId: 2_2,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Мякинино',
+				stationId: 2_3,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Крылатское',
+				stationId: 2_4,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Молодёжная',
+				stationId: 2_5,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Кунцевская',
+				stationId: 2_6,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Славянский бульвар',
+				stationId: 2_7,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Парк Победы',
+				stationId: 2_8,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Киевская',
+				stationId: 2_9,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Смоленская',
+				stationId: 2_10,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Арбатская',
+				stationId: 2_11,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Площадь Революции',
+				stationId: 2_12,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Курская',
+				stationId: 2_13,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Бауманская',
+				stationId: 2_14,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Электрозаводская',
+				stationId: 2_15,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Семёновская',
+				stationId: 2_16,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Партизанская',
+				stationId: 2_17,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Измайловская',
+				stationId: 2_18,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Первомайская',
+				stationId: 2_19,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Щёлковская',
+				stationId: 2_20,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			}
+	]
+},
+
+{
+	lineId: 3,
+	name: 'Филёвская',
+	stationDistance: 1.24,
+	color: '',
+
+	stations: [
+			{
+				name: 'Кунцевская',
+				stationId: 3_0,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Пионерская',
+				stationId: 3_1,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Филёвский парк',
+				stationId: 3_2,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Багратионовская',
+				stationId: 3_3,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Фили',
+				stationId: 3_4,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Кутузовская',
+				stationId: 3_5,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Студенческая',
+				stationId: 3_6,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Международная',
+				stationId: 3_7,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Выставочная',
+				stationId: 3_8,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Киевская',
+				stationId: 3_9,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Смоленская',
+				stationId: 3_10,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Арбатская',
+				stationId: 3_11,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			},
+
+			{
+				name: 'Александровский сад',
+				stationId: 3_12,
+
+				transfer: [],
+
+				coords: {
+						 x: 0,
+						 y: 0
+				}
+			}
+
+	]
+
+},
+
+{
+	lineId: 4,
+	name: 'Кольцевая',
+	stationDistance: 1.61
+},
+
+{
+	lineId: 5,
+	name: 'Калужско-Рижская',
+	stationDistance: 1.63
+},
+
+{
+	lineId: 6,
+	name: 'Таганско-Краснопресненская',
+	stationDistance: 1.93
+},
+
+{
+	lineId: 7,
+	name: 'Калининская',
+	stationDistance: 2.32
+},
+
+{
+	lineId: 8,
+	name: 'Калининская, Солнцевский радиус',
+	stationDistance: 3.4
+},
+
+{
+	lineId: 9,
+	name: 'Серпуховско-Тимирязевская',
+	stationDistance: 1.72
+},
+
+{
+	lineId: 10,
+	name: 'Люблинско-Дмитровская',
+	stationDistance: 1.75
+},
+
+{
+	lineId: 11,
+	name: 'Каховская',
+	stationDistance: 1.65
+},
+
+{
+	lineId: 12,
+	name: 'Бутовская',
+	stationDistance: 1.67
+}
