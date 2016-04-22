@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href='/Content/css.css' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <style type="text/css">
+        body {
+            color: black;
+            font-family: 'officinaserifcregular';
+            font-size: 62.5%;
+        }
+
+        .m-map {
+            position: relative;
+            width: 200px;
+            height: 200px;
+        }
+
+        .station {
+            width: 10px;
+            height: 10px;
+            border-radius: 5px;
+            background: black;
+            position: absolute;
+            cursor: pointer;
+        }
+
+            .station.active {
+                background: blue;
+            }
+
+        .map {
+            position: absolute;
+            width: 122.7em;
+            height: 85.89em;
+            top: 7.4em;
+        }
+
+        #mapHolder {
+            left: -0.5em;
+            top: 6.9em;
+            z-index: 2;
+        }
+
+        .station-name {
+            font-size: 18px;
+            color: black;
+        }
+    </style>
+
+    <div id="globalWrapper" style="position: absolute">
+        <div id="way" style="position: absolute; width 800px; top 2px;"></div>
+
+        <div id="mapHolder" class="map">
+            <div id="stations">
+            </div>
+        </div>
+
+        <canvas id="linesHolder" class="map" width="1227" height="858"></canvas>
+        <canvas id="metroHolder" class="map" width="1227" height="858"></canvas>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/scripts/data.js"></script>
+    <!--script src="app/model.js"></script>
+    <script src="app/events.js"></script-->
+
+    <script type="text/javascript" src="/scripts/utils.js"></script>
+    <script type="text/javascript" src="/scripts/metro.js"></script>
+</body>
+</html>
